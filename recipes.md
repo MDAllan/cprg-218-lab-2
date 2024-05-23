@@ -113,3 +113,21 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Peanut Butter Kiss Cookies
+
+Ingredients:
+- 1 cup peanut butter
+- 1 cup sugar
+- 1 large egg room temperature
+- 1 teaspoon vanilla extract
+- 30 milk chocolate kisses
+
+Instructions:
+1. Preheat oven to 375°F (190°C).
+2. Cream peanut butter and sugar until light fluffy
+3. Beat in egg and vanilla
+4. Roll into small balls and Place 2 in. apart on baking sheets.
+5. Bake until tops are slightly cracked, 10-12 minutes. 
+6. Immediately press 1 chocolate kiss into center of each cookie. 
+7. Cool for 5 minutes before removing from pans to wire racks.
