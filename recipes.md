@@ -59,6 +59,7 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+- finely chopped parsely 
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -67,7 +68,7 @@ Instructions:
 4. In a large skillet, brown meatballs over medium-high heat.
 5. Add spaghetti sauce to the skillet and bring to a simmer.
 6. Reduce heat to low and let simmer for 10-15 minutes.
-7. Serve meatballs and sauce over spaghetti.
+7. Serve meatballs,parsely and sauce over spaghetti.
 
 ### Grilled Chicken Sandwich
 
@@ -80,6 +81,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- sliced pickle 
 
 Instructions:
 1. Preheat grill to medium-high heat.
@@ -87,7 +89,7 @@ Instructions:
 3. Grill chicken for 5-7 minutes per side or until cooked through.
 4. Top each chicken breast with a slice of Swiss cheese and let melt.
 5. Toast hamburger buns on the grill.
-6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
+6. Assemble sandwiches with chicken, lettuce, tomato, pickle, and mayonnaise.
 
 ## Desserts
 ### Chocolate Chip Cookies
@@ -101,7 +103,7 @@ Ingredients:
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 3 cups semisweet chocolate chips
+- 3 1/4 cups semisweet chocolate chips
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
@@ -113,8 +115,6 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
-<<<<<<< HEAD
-=======
 
 ### Peanut Butter Kiss Cookies
 
@@ -133,4 +133,3 @@ Instructions:
 5. Bake until tops are slightly cracked, 10-12 minutes. 
 6. Immediately press 1 chocolate kiss into center of each cookie. 
 7. Cool for 5 minutes before removing from pans to wire racks.
->>>>>>> desserts
