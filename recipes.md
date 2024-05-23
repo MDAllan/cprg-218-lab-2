@@ -113,3 +113,20 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Brownie in a mug
+- 4 tsp flour
+- 1/4 tsp salt
+- 1 tsp baking soda
+- 4 tbsp sugar
+- 2 tbsp cocoa
+- 2 tbsp water
+- 2 tbsp canola oil
+- 1 tsp vanilla
+
+Instructions: 
+1. Preheat oven to 350°F (190°C).
+2. Combine flour, baking soda, and salt in a bowl.
+3. Gradually blend in the other ingredients.
+4. Microwave for 1 minute.
+5. Bake in oven at 350 for 20 minutes or until toothpick comes out clean.
