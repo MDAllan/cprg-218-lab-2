@@ -60,6 +60,7 @@ Ingredients:
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
 - 3 tablespoons chopped fresh parsley
+- 1 teaspoon dried oregano
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -68,7 +69,7 @@ Instructions:
 4. In a large skillet, brown meatballs over medium-high heat.
 5. Add spaghetti sauce to the skillet and bring to a simmer.
 6. Reduce heat to low and let simmer for 10-15 minutes.
-7. Serve meatballs, parsley and sauce over spaghetti.
+7. Serve meatballs, oregano, parsley and sauce over spaghetti.
 
 ### Grilled Chicken Sandwich
 
