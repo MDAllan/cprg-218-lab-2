@@ -81,7 +81,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
-- sliced pickle 
+- 3 sliced pickle 
 
 Instructions:
 1. Preheat grill to medium-high heat.
