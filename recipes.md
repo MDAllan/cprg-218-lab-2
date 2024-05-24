@@ -59,7 +59,7 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
-- finely chopped parsely 
+- 3tsp finely chopped parsely 
 
 Instructions:
 1. Cook spaghetti according to package instructions.
