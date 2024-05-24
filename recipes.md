@@ -59,7 +59,12 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+<<<<<<< HEAD
 - 3tsp finely chopped parsely 
+=======
+- 3 tablespoons chopped fresh parsley
+- 1 teaspoon dried oregano
+>>>>>>> 977e48ed84364b7545523f5b4d3018d42862ddab
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -68,7 +73,11 @@ Instructions:
 4. In a large skillet, brown meatballs over medium-high heat.
 5. Add spaghetti sauce to the skillet and bring to a simmer.
 6. Reduce heat to low and let simmer for 10-15 minutes.
+<<<<<<< HEAD
 7. Serve meatballs,parsely and sauce over spaghetti.
+=======
+7. Serve meatballs, oregano, parsley and sauce over spaghetti.
+>>>>>>> 977e48ed84364b7545523f5b4d3018d42862ddab
 
 ### Grilled Chicken Sandwich
 
@@ -81,7 +90,12 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+<<<<<<< HEAD
 - 3 sliced pickle 
+=======
+- sliced pickle 
+- Hot sauce 
+>>>>>>> 977e48ed84364b7545523f5b4d3018d42862ddab
 
 Instructions:
 1. Preheat grill to medium-high heat.
@@ -89,7 +103,11 @@ Instructions:
 3. Grill chicken for 5-7 minutes per side or until cooked through.
 4. Top each chicken breast with a slice of Swiss cheese and let melt.
 5. Toast hamburger buns on the grill.
+<<<<<<< HEAD
 6. Assemble sandwiches with chicken, lettuce, tomato, pickle, and mayonnaise.
+=======
+6. Assemble sandwiches with chicken, lettuce, pickle, tomato, hot sauce, and mayonnaise.
+>>>>>>> 977e48ed84364b7545523f5b4d3018d42862ddab
 
 ## Desserts
 ### Chocolate Chip Cookies
